@@ -17,4 +17,3 @@ describe("Leap Year", () => {
         expect(leapYear(2009)).toBe(false)
     });
 })
-// All years not divisible by 4 are NOT leap years 2009
