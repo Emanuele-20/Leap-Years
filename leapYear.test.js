@@ -1,6 +1,5 @@
-const leapYear = require('./leapYear');
-const leapYearInBetween = require('./leapYearInBetween');
-const closestLeapYear = require('./closestLeapYear')
+const { leapYear, closestLeapYear, leapYearInBetween }  = require('./leapYear.js')
+
 
 
 describe("Leap Year", () => {
